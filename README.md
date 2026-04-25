@@ -33,6 +33,8 @@ NestJS + SQLite microservice for managing time-off requests while treating the H
 
 ## Run locally
 
+Apply these commands at root of the project location or where package.json is located
+
 ```bash
 npm install
 (Do not do npm audit fix even if come)
@@ -53,3 +55,7 @@ npm run test:integration
 npm run test:e2e
 npm run test:cov
 ```
+
+# Comments from Wisam Ahmad
+
+This is great initiative by widzaa as we have to be more productive and reliable on tests instead of code itself with best practices like an engineer.
