@@ -1,8 +1,4 @@
 # Node.js dependencies
 node_modules/
 
-# Coverage directory
-coverage/
 
-# Distribution/build directory
-dist/
