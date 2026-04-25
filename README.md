@@ -33,6 +33,14 @@ NestJS + SQLite microservice for managing time-off requests while treating the H
 
 ## Run locally
 
+Deliverables:
+○ Your TRD:
+Technical requirements document: `docs/TRD.md`
+○ Your code in a repository on github
+https://github.com/wisamahmad07/examplehr-codex-wizdaa-testdrivendevwithai
+○ Your test cases and proof of coverage
+Coverage and scenario summary: `docs/COVERAGE.md` and also "npm run test:cov" for it.
+
 Apply these commands at root of the project location or where package.json is located
 
 ```bash
